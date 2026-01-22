@@ -1,6 +1,7 @@
 # NFL Play Type Prediction Model
 Overview
-This project builds a machine learning model to predict whether a football play will be a run or pass based on pre-snap information. Using supervised learning techniques, the model analyzes various game situations and team tendencies to make its predictions.
+
+This project builds a machine learning model to predict whether a football play will be a run or a pass based on pre-snap information. Using supervised learning techniques, the model analyzes various game situations and team tendencies to make its predictions.
 Project Description
 The goal is to build a K-Nearest Neighbors (KNN) classifier that can predict whether a team will run or pass the ball based on pre-snap information available in NFL gameplay data. This has practical applications for defensive coordinators and analysts who need to anticipate offensive play calls.
 
